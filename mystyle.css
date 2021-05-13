@@ -1,0 +1,29 @@
+
+p {
+   color: #36CFFF; 
+}
+
+img {
+  width: 50px;
+
+}
+
+.big_width {
+  width: 200px;
+
+}
+
+.small_width {
+  width: 50px;
+
+}
+
+.my_border {
+  border:5px solid;
+}
+
+#my_id {
+  width: 100%;  
+}
+
+ 
